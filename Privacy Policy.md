@@ -163,7 +163,7 @@ Depending on your location, you may have the following rights:
 ### Restrict Processing
 - Request limitation on how we use your information
 
-To exercise these rights, contact us at [your-email@example.com].
+To exercise these rights, contact us at me@srinivas-kikkuru.com.
 
 ## International Data Transfers
 
