@@ -79,7 +79,7 @@ Parents of children under 13 can:
 - Request deletion of their child's personal information
 - Refuse to allow further collection or use of their child's information
 
-To exercise these rights, please contact us at [your-email@example.com].
+To exercise these rights, please contact us at me@srinivas-kikkuru.com.
 
 ## Data Sharing and Disclosure
 
@@ -193,9 +193,7 @@ Continued use of the App after changes constitutes acceptance of the updated pol
 
 If you have questions, concerns, or requests regarding this Privacy Policy or our privacy practices, please contact us:
 
-**Email**: [your-email@example.com]  
-**Address**: [Your Company Address]  
-**Phone**: [Your Phone Number]
+**Email**: me@srinivas-kikkuru.com
 
 For parental inquiries regarding children's privacy, please use the same contact information with "COPPA Inquiry" in the subject line.
 
